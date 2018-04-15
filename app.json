@@ -11,6 +11,9 @@
        "description": "Vmess协议默认UUID，请输入自己的UUID",
        "value": "8fd6dadc-0d59-4ae7-93bb-e6b8a231c2c2"
      }
+    "PORT": {
+      "value": 80
+    }
   },
   "website": "https://github.com/zhaohengxing/v2ray-heroku",
   "repository": "https://github.com/zhaohengxing/v2ray-heroku",
